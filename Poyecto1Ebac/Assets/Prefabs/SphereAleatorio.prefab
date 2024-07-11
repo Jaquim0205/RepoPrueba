@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 7261473642363571830}
   - component: {fileID: 7261473642363571831}
   - component: {fileID: 7261473642363571828}
-  - component: {fileID: 7261473642363571824}
   m_Layer: 0
   m_Name: SphereAleatorio
   m_TagString: Untagged
@@ -98,16 +97,3 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &7261473642363571824
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7261473642363571829}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be77642d3927ec84a83e540ab72e8e03, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  prefabsphere: {fileID: 7261473642363571829}
